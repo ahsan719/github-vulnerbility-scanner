@@ -10,7 +10,7 @@ import uuid
 import json
 import datetime
 
-# ------------------- CONFIG -------------------
+# ------------------- CONFIGS -------------------
 SCAN_HISTORY = {}
 PROJECT_TITLE = "Repo Scanner-X"
 HEADING = "# Repo Scanner-X"
