@@ -33,8 +33,8 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/repo-scanner-x.git
-cd repo-scanner-x
+git clone https://github.com/ahsan719/github-vulnerbility-scanner.git
+cd github-vulnerbility-scanner
 ```
 
 ### 2. Install Requirements
