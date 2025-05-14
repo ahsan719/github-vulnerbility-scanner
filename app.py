@@ -63,7 +63,6 @@ def scan_with_trivy(repo_path):
     if result.returncode not in [0, 5]:  # 5 means vulnerabilities found
         raise RuntimeError(result.stderr)
     return result.stdout
-
 def extract_vulnerable_files(scan_output):
     return sorted(set(re.findall(r"(/.*?):", scan_output)))
 
