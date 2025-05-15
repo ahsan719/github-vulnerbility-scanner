@@ -1,8 +1,8 @@
-# 🛡️ Repo Scanner-X
+# 🛡️ Github Repo Vulnerabilty Scanner
 
 ## Overview
 
-**Repo Scanner-X** is a powerful GitHub repository vulnerability scanner and AI-based recommendation system. It integrates Trivy for deep scanning of repositories and utilizes LLM (LLaMA 3) via the Groq API to generate insightful and professional recommendations on detected vulnerabilities.
+**Github Repo Vulnerabilty Scanner** is a powerful GitHub repository vulnerability scanner and AI-based recommendation system. It integrates Trivy for deep scanning of repositories and utilizes LLM (LLaMA 3) via the Groq API to generate insightful and professional recommendations on detected vulnerabilities.
 
 > ⚡ Scan, Detect, and Remediate vulnerabilities — in one go!
 
