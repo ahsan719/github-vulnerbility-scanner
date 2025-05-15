@@ -81,24 +81,6 @@ Install them using:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## ✨ Example Output
-
-- ✅ Repository accessible
-- 📊 Raw scan results from Trivy
-- 🧠 AI Analysis on scan results with actionable security insights
-- 📄 Downloadable reports
-
----
-
-## 📜 License
-
-MIT License © 2025 [Your Name or Organization]
-
----
-
 ## 👨‍💻 Contributing
 
 1. Fork this repo  
@@ -118,9 +100,3 @@ MIT License © 2025 [Your Name or Organization]
 
 ---
 
-## 💬 Contact
-
-If you encounter any issues or have suggestions, feel free to open an issue or reach out to:
-
-📧 alihassanali119683@gmail.com  
-🔗 linkedin.com/in/hassanali202
