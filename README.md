@@ -17,9 +17,9 @@
   - Secrets
   - Misconfigurations
   - License issues
-- 🤖 AI-Powered Report Generator using **LLaMA 3 (Groq)**
-- 📄 Downloadable reports (Trivy raw + AI analysis)
-- 🧠 AI Suggests:
+    AI-Powered Report Generator using **LLaMA 3 (Groq)**
+    Downloadable reports (Trivy raw + AI analysis)
+    AI Suggests:
   - Top 3 Critical Vulnerabilities
   - Remediation Steps
   - Known Exploits & Attack Techniques
