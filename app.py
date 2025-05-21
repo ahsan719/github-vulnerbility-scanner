@@ -10,16 +10,15 @@ import uuid
 import json
 import datetime
 
-# ------------------- CONFIGS -------------------
+# ------------------- CONFIGS  -------------------
 SCAN_HISTORY = {}
 PROJECT_TITLE = "Repo Scanner-X"
 HEADING = "# Repo Scanner-X"
-HEADING_ALT = "# 🛡️ Git Vulnerability Scanner and AI-based Recommendation System"
+HEADING_ALT = "# Git Vulnerability Scanner and AI-based Recommendation System"
 GROQ_API_KEY = "YOur Groq Api"
 GROQ_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = "llama3-70b-8192"
 
-# ------------------- Repo Utilities -------------------
 def get_repo_name(repo_url):
     match = re.search(r"/([^/]+?)(?:\.git)?$", repo_url)
     return match.group(1) if match else "scanned_repo"
